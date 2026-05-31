@@ -16,7 +16,7 @@ function App() {
             Saya mempunyai ketertarikan dalam bidang Programming dan Networking, terutama pada pembuatan Website dan Infrastruktur Jaringan, Mikrotik serta Cisco, ketertarikan pada bidang ini sudah berlangsung lebih dari 3 Tahun untuk semua Bidang.
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
-            <a href="#" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">Download CV <i className="ri-download-line ri-lg"></i></a>
+            <a href="../public/cv.pdf" download="cv-Fahreja" className="bg-violet-700 p-4 rounded-2xl hover:bg-violet-600">Download CV <i className="ri-download-line ri-lg"></i></a>
             <a href="#project" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">Lihat Project <i className="ri-arrow-down-line ri-lg"></i></a>
           </div>
         </div>
